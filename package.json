@@ -1,0 +1,12 @@
+{
+  "name": "buildsignal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "BuildSignal: verified Arizona commercial-project and public-bid opportunities for trade businesses.",
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "dev": "node scripts/dev.js"
+  }
+}
